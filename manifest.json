@@ -2,7 +2,9 @@
   "name": "Highlight Active Row",
   "version": "1.1.0",
   "description": "Makes the currently selected table row more visible.",
-  "web_accessible_resources": ["rowHighlighter.js"],
+  "web_accessible_resources": [
+    "src/rowHighlighter.js"
+  ],
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
