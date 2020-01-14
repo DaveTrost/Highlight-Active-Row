@@ -1,6 +1,6 @@
 console.log('highlight-active-row: Injecting rowHighlighter...');
 var s = document.createElement('script');
-s.src = chrome.runtime.getURL('src/rowHighlighter.js');
+s.src = chrome.runtime.getURL('content-scripts/rowHighlighter.js');
 s.onload = function() {
   this.remove();
 };
