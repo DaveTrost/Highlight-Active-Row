@@ -10,9 +10,9 @@
     }
   ],
   "icons": {
-    "16": "highlightActiveRowIcon16.png",
-    "48": "highlightActiveRowIcon48.png",
-    "128": "highlightActiveRowIcon128.png"
+    "16": "/assets/highlightActiveRowIcon16.png",
+    "48": "/assets/highlightActiveRowIcon48.png",
+    "128": "/assets/highlightActiveRowIcon128.png"
   },
 
   "manifest_version": 2
